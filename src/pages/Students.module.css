@@ -1,0 +1,16 @@
+/* Tablo stil */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* Tablo başlığı */
+
+/* Tablo satırları */
+table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+table tbody td {
+  padding: 10px;
+}
